@@ -7,4 +7,6 @@ Learning Go with Youtube class
 - [ ] Chapter 03 Exercices - 06 videos
 
 
-youtube Channel https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
+Aprenda Go Channel https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
+
+Elton Minetto Channel https://www.youtube.com/watch?v=9w593b3Ubi0&list=PL0qudqr7_CuStQUsf2vtHXMxOp5gl_ENc&index=4&ab_channel=EltonMinetto
