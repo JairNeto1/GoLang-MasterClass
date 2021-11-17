@@ -4,7 +4,8 @@ Learning Go with Youtube class
 
 - [x] Chapeter 01 - 06 videos
 - [x] Chapter 02 - 09 videos
-- [ ] Chapter 03 Exercices - 06 videos
+- [x] Chapter 03 Exercices - 06 videos
+- [ ] Chapeter 04 - 09 Videos
 
 
 Aprenda Go Channel https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ
